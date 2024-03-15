@@ -40,7 +40,9 @@
     <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=serika&includeNames=true" />
   </a>
 </div>
+
   ---
+
 <div align="center">
 <p align="center">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Harshit-shrivastav&count_private=true&show_icons=true&theme=omni" alt="User stats" />
