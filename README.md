@@ -1,16 +1,50 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/Harshit-shrivastav">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Harshit-shrivastav&data=followers,repositories,stars,commits&theme=serika" />
+  </a>
 
-<!--
-**Harshit-shrivastav/Harshit-Shrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## 🎓 About Me
+  - 📚 I’m a Data Science Student.
+  - 🌱 I’m currently learning Machine Learning algorithms.
+  - 👯 I’m looking to collaborate on Data Science projects.
+  - 🤔 I’m looking for help with Deep Learning.
+  - 💬 Ask me about Python, SQL, and Machine Learning.
 
-Here are some ideas to get you started:
+  ### Github Stats
+  <a href="https://github.com/Harshit-shrivastav">
+    <img align="center" src="https://raw.githubusercontent.com/Harshit-shrivastav/silver-system/master/github_stats.svg" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ## 💼 Skills
+
+  ### Languages
+  <a href="https://github.com/Harshit-shrivastav">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,sql,html,css,go,bash,json,markdown&theme=serika&includeNames=true" />
+  </a>
+
+  ### Tools
+  <a href="https://github.com/Harshit-shrivastav">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,powershell,markdown,firebase,mongodb,wordpress,vercel,redis,heroku,apache,aws&theme=serika&includeNames=true" />
+  </a>
+
+  ### Libraries
+  <a href="https://github.com/Harshit-shrivastav">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&theme=serika&includeNames=true" />
+  </a>
+
+
+### Softwares & IDE's
+  <a href="https://github.com/Harshit-shrivastav">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=serika&includeNames=true" />
+  </a>
+</div>
+
+<div align="center">
+<p align="center">
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Harshit-shrivastav&count_private=true&show_icons=true&theme=omni" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-shrivastav&layout=compact&theme=omni" alt="Top languages" />
+</p>
+  
+</div>
