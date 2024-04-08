@@ -8,7 +8,7 @@
   - 🌱 I’m currently learning Machine Learning algorithms.
   - 👯 I’m looking to collaborate on Data Science projects.
   - 🤔 I’m looking for help with Deep Learning.
-  - 💬 Ask me about Python, SQL, and Machine Learning.
+  - 💬 Ask me about Golang, Python, SQL, and Machine Learning.
 
   ### Github Stats
   <a href="https://github.com/Harshit-shrivastav">
