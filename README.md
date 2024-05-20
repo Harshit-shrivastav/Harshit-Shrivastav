@@ -4,13 +4,13 @@
   </a>
 </div>
 
-## 🎓 About Me
+<h2 align="center">🎓 About Me</h2>
 - 📚 I’m a Data Science Student.
 - 🌱 I’m currently learning FastAPI.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Golang, Python, and Redis.
 
-## 💻 Github Stats
+<h2 align="center">💻 Github Stats</h2>
 <div align="center">
   <a href="https://github.com/Harshit-shrivastav">
     <img align="center" src="https://raw.githubusercontent.com/Harshit-shrivastav/silver-system/master/github_stats.svg" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 📑 Other Stats
+<h2 align="center">📑 Other Stats</h2>
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 💼 Skills
+<h2 align="center">💼 Skills</h2>
 
 ### Languages
 <a href="https://github.com/Harshit-shrivastav">
