@@ -5,10 +5,13 @@
 </div>
 
 <h2 align="center">🎓 About Me</h2>
-- 📚 I’m a Data Science Student.
-- 🌱 I’m currently learning FastAPI.
-- 👯 I’m looking to collaborate on projects.
-- 💬 Ask me about Golang, Python, and Redis.
+<ul>
+  <li>📚 I’m a Data Science Student.</li>
+  <li>🌱 I’m currently learning FastAPI.</li>
+  <li>👯 I’m looking to collaborate on projects.</li>
+  <li>💬 Ask me about Golang, Python.</li>
+</ul>
+
 
 <h2 align="center">💻 Github Stats</h2>
 <div align="center">
