@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Golang, Python, and Redis.
 
-### Github Stats
+## 💻 Github Stats
 <div align="center">
   <a href="https://github.com/Harshit-shrivastav">
     <img align="center" src="https://raw.githubusercontent.com/Harshit-shrivastav/silver-system/master/github_stats.svg" />
@@ -18,6 +18,8 @@
 </div>
 
 ---
+
+## 📑 Other Stats
 
 <div align="center">
 
