@@ -16,6 +16,17 @@
 
   ---
 
+<div align="center">
+<p align="center">
+
+[![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+  
+[![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Harshit-shrivastav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+
+[![Harshit-shrivastav's GitHub | Languages](https://stats.quine.sh/Harshit-shrivastav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+
+  ---
+  
   ## 💼 Skills
 
   ### Languages
@@ -39,17 +50,6 @@
     <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=serika&includeNames=true" />
   </a>
 </div>
-
-  ---
-
-<div align="center">
-<p align="center">
-
-[![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
-  
-[![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Harshit-shrivastav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
-
-[![Harshit-shrivastav's GitHub | Languages](https://stats.quine.sh/Harshit-shrivastav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
 
 
 </div>
