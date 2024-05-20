@@ -47,7 +47,6 @@
 
 [![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
   
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-shrivastav&layout=compact&theme=omni" alt="Top languages" />
-</p><div align="center">
+[![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Harshit-shrivastav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
 </div>
 </div>
