@@ -48,5 +48,9 @@
 [![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
   
 [![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Harshit-shrivastav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+
+[![Harshit-shrivastav's GitHub | Languages](https://stats.quine.sh/Harshit-shrivastav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+
+
 </div>
 </div>
