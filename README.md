@@ -44,7 +44,9 @@
 
 <div align="center">
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Harshit-shrivastav&count_private=true&show_icons=true&theme=omni" alt="User stats" />
+
+[![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+  
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-shrivastav&layout=compact&theme=omni" alt="Top languages" />
 </p><div align="center">
 </div>
