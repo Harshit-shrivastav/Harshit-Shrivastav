@@ -54,5 +54,8 @@
 ### Softwares & IDE's
 <a href="https://github.com/Harshit-shrivastav">
   <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=serika&includeNames=true" />
+
+
+<img align="center" src="https://stats.itsharshit.workers.dev" />
 </a>
 </div>
