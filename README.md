@@ -12,7 +12,6 @@
   <li>💬 Ask me about Golang, Python.</li>
 </ul>
 
-
 <h2 align="center">💻 Github Stats</h2>
 <div align="center">
   <a href="https://github.com/Harshit-shrivastav">
@@ -25,12 +24,19 @@
 <h2 align="center">📑 Other Stats</h2>
 
 <div align="center">
-
-[![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+  [![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Harshit-shrivastav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
   
-[![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Harshit-shrivastav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+  [![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Harshit-shrivastav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
 
-[![Harshit-shrivastav's GitHub | Languages](https://stats.quine.sh/Harshit-shrivastav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+  [![Harshit-shrivastav's GitHub | Languages](https://stats.quine.sh/Harshit-shrivastav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshit-shrivastav)
+</div>
+
+---
+
+<h2 align="center">📊 API Data</h2>
+<div align="center">
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['API Data'],datasets:[{label:'Count',data:[52]}]}}" alt="API Data">
+</div>
 
 ---
 
