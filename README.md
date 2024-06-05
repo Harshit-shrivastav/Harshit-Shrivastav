@@ -15,6 +15,8 @@
 
 <h2 align="center">💻 Github Stats</h2>
 <div align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Profile%20Views&query=$.value&url=https://counter.itsharshit.workers.dev/" alt="Total Profile Views"/>
+  
   <a href="https://github.com/Harshit-shrivastav">
     <img align="center" src="https://raw.githubusercontent.com/Harshit-shrivastav/silver-system/master/github_stats.svg" />
   </a>
