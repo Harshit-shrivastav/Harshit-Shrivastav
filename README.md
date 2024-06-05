@@ -10,8 +10,6 @@
   <li>🌱 I’m currently learning FastAPI.</li>
   <li>👯 I’m looking to collaborate on projects.</li>
   <li>💬 Ask me about Golang, Python.</li>
-  <li><object data="https://counter.itsharshit.workers.dev/" width="100" height="50" type="text/plain"></object>
-</li>
 </ul>
 
 
