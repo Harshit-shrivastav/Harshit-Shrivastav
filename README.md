@@ -35,7 +35,7 @@
 
 <h2 align="center">📊 API Data</h2>
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['API Data'],datasets:[{label:'Count',data:[52]}]}}" alt="API Data">
+  <img src="https://img.shields.io/badge/dynamic/json?label=API%20Data&query=%24&url=https%3A%2F%2Fcounter.itsharshit.workers.dev%2F" alt="API Data">
 </div>
 
 ---
