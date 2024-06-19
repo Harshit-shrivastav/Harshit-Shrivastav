@@ -57,4 +57,7 @@
 <a href="https://github.com/Harshit-shrivastav">
   <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=serika&includeNames=true" />
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshit-shrivastav&theme=hacker&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
