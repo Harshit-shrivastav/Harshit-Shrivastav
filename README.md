@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Harshit-shrivastav">
-    <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Harshit-shrivastav&data=followers,repositories,stars,commits&theme=default" />
+    <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=harshit-shrivastav&data=followers,repositories,stars,commits&theme=default" />
   </a>
 </div>
 
@@ -43,22 +43,22 @@
 
 ### Languages
 <a href="https://github.com/Harshit-shrivastav">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,sql,html,css,go,bash,json,markdown&theme=serika&includeNames=true" />
+  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,sql,html,css,go,bash,json,markdown&theme=default&includeNames=true" />
 </a>
 
 ### Tools
 <a href="https://github.com/Harshit-shrivastav">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,powershell,markdown,firebase,mongodb,wordpress,vercel,redis,heroku,apache,aws&theme=serika&includeNames=true" />
+  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,powershell,markdown,firebase,mongodb,wordpress,vercel,redis,heroku,apache,aws&theme=default&includeNames=true" />
 </a>
 
 ### Libraries
 <a href="https://github.com/Harshit-shrivastav">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&theme=serika&includeNames=true" />
+  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&theme=default&includeNames=true" />
 </a>
 
 ### Softwares & IDE's
 <a href="https://github.com/Harshit-shrivastav">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=serika&includeNames=true" />
+  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=default&includeNames=true" />
 </a>
 
 </div>
