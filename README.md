@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Harshit-shrivastav">
-    <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Harshit-shrivastav&data=followers,repositories,stars,commits&theme=serika" />
+    <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Harshit-shrivastav&data=followers,repositories,stars,commits&theme=default" />
   </a>
 </div>
 
