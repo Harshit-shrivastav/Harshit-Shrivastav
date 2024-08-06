@@ -6,9 +6,8 @@
 
 <h2 align="center">🎓 About Me</h2>
 <ul>
-  <li>📚 I’m a Data Science Student.</li>
+  <li>📚 A Data Science Student.</li>
   <li>🌱 I’m currently learning FastAPI.</li>
-  <li>👯 I’m looking to collaborate on projects.</li>
   <li>💬 Ask me about Golang, Python.</li>
 </ul>
 
