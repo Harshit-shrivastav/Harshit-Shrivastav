@@ -19,8 +19,6 @@
   <a href="https://github.com/Harshit-shrivastav">
     <img align="center" src="https://raw.githubusercontent.com/Harshit-shrivastav/silver-system/master/github_stats.svg" />
   </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harshit-shrivastav&theme=hacker&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
