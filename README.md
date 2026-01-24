@@ -28,12 +28,12 @@
 
 ### Languages
 <a href="https://github.com/Harshit-shrivastav">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,sql,html,css,go,bash,json,markdown&theme=default&includeNames=true" />
+  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,sql,html,css,go,bash,json,js,java,ruby,postgresql,lua,markdown&theme=default&includeNames=true" />
 </a>
 
 ### Tools
 <a href="https://github.com/Harshit-shrivastav">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,powershell,markdown,firebase,mongodb,wordpress,vercel,redis,heroku,apache,aws&theme=default&includeNames=true" />
+  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?tools=git,,jupyter,powershell,markdown,firebase,mongodb,wordpress,vercel,redis,heroku,apache,aws&theme=default&includeNames=true" />
 </a>
 
 ### Libraries
